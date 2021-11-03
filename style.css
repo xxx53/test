@@ -1,0 +1,29 @@
+h1 {
+	background-color: #778899;
+	color: white;
+	padding-left: 15px;
+	height: 48px; width: 175px;
+}
+
+h2 {
+	margin: 0px;
+}
+
+div {
+	border: 1.5px solid; border-color: #778899;
+	background-color: #f0f8ff;
+	padding: 15px; margin: 15px;
+	height: 100px;
+}
+
+.d1 {
+	width: 68.5px;
+}
+
+.d2 {
+	width: 93px;
+}
+
+.d3 {
+	width: 185px;
+}
